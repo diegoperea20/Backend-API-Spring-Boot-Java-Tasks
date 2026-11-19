@@ -307,6 +307,17 @@ Antes de desplegar:
   necesitas varias instancias.
 
 
+----
+
+### Youtube links tutorials
+
+[curso spring java](https://www.youtube.com/watch?v=pQGxVgaNM-o&list=PL2Z95CSZ1N4EWw14HZ0NFD3woFcn6uiCm&index=2)
+
+[descargar java](https://youtu.be/BTZDdf4sw5E)
+
+----
+
+
 ### 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
